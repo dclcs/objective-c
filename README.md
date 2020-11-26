@@ -3,6 +3,7 @@
 ---
 
 - [class in oc](Class.md)
+- [memory management](Memory.md)
 - 
 - `#include`和`#import`的区别是什么？
 - `Foundation`
